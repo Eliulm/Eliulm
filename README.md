@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Eliulm
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning python, haskell and c++
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Elias 
+
+I am a CS student in Frankfurt. 
+
+Currently learning about React, Node, Express and MongoDB.
 
 <!---
 Eliulm/Eliulm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
