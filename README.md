@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Elias 
+- 👋 Hi, I’m Elias  
 
-I am a CS student in Frankfurt. 
-
-Currently learning about React, Node, Express and MongoDB.
+- Currently learning about React, Node, Express and MongoDB.
 
 <!---
 Eliulm/Eliulm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
