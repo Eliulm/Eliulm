@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Elias  
+- Computer science student @ *Goethe University Frankfurt*
 
-- Computer science student who loves Python, React and almost anything with .NET
+- Currently working @ *Campana und Schott*
 
-- Currently working at Campana und Schott
-<!---
-Eliulm/Eliulm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Anything with Typescript, C#, Python, Java.
+
+- Quite enthusiastic about web development and ML
