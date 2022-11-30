@@ -1,1 +1,1 @@
-- Computer science student @ *Goethe University Frankfurt*
+- Computer science student @ Frankfurt University
